@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Marvel App</string>
+
+    <string name="added">adicionado</string>
+    <string name="removed">removido</string>
+
+    <string name="error_message_no_connection">Não foi possível estabelecer conexão com a internet</string>
+    <string name="error_message_default">Não foi possível completar a solicitação</string>
+
+    <string name="message_added_to_favorites">%s foi adicionado aos favoritos</string>
+    <string name="message_removed_from_favorites">%s foi removido dos favoritos</string>
+    <string name="message_no_characters_founded">Nenhum personagem encontrado</string>
+    <string name="message_no_description">Sem descrição disponível</string>
+    <string name="message_no_favorites">Nenhum personagem foi adicionado como favorito</string>
+</resources>
